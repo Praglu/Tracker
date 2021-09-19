@@ -1,8 +1,15 @@
 # Tracker
 Django back-end made for a Issue Tracker - API
 
+In this project a PostgreSQL Data Base is a must have.
+If you haven't one go to 
+### settings.py
+uncomment lines 89-92
+and comment 93-100
+You need to uncomment line 23 with the SECRET KEY
+
 After downloading Django and Django Rest Framework with pip navigate to project folder ( in this case "tracker" )
-Then run shell and write:
+Then run shell/terminal and write:
 
 ### python manage.py runserver
 
