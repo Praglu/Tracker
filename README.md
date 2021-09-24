@@ -1,5 +1,5 @@
 # Tracker
-Django back-end made for a Issue Tracker - API
+Django back-end made for an Issue Tracker - API
 
 In this project a PostgreSQL Data Base is a must have.
 If you haven't one go to 
