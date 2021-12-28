@@ -1,6 +1,8 @@
 # Tracker
 Django back-end made for an Issue Tracker - API
 
+#### Front-end for this API: https://github.com/dereniowskid885/project-tracker
+
 In this project a PostgreSQL Data Base is a must have.
 If you haven't one go to 
 ### settings.py
